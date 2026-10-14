@@ -1,0 +1,18 @@
+# VS编译产物
+x64/
+x86/
+*.suo
+*.user
+*.sdf
+*.ipch
+*.obj
+*.pdb
+*.exe
+*.lib
+*.log
+.vs/
+packages/
+*.vcxproj*
+*.sln
+*.config
+package*
